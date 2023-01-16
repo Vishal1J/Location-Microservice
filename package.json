@@ -1,0 +1,17 @@
+{
+  "name": "location-microservice",
+  "version": "1.0.0",
+  "description": "This is a location microservice made using express and nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vishal Jaiswal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.0",
+    "request": "^2.88.2"
+  }
+}
